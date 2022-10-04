@@ -1,0 +1,5 @@
+name: SaferMinecart
+version: '${project.version}'
+main: me.labstorm.saferminecart.Main
+api-version: 1.19
+description: prevents entities except players from getting suffocation damage.
